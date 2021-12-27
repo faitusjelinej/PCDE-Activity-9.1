@@ -3,21 +3,6 @@
 
 Commands used
 
-(base) faitusjelinejoseph@MacBook-Pro-2 uploadtogit % git init
-Initialized empty Git repository in /Users/faitusjelinejoseph/Documents/MIT/Module9/uploadtogit/.git/
-(base) faitusjelinejoseph@MacBook-Pro-2 uploadtogit % git add .
-(base) faitusjelinejoseph@MacBook-Pro-2 uploadtogit % git status
-On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	new file:   MIT.ipynb
-(base) faitusjelinejoseph@MacBook-Pro-2 uploadtogit % git commit -m "First commit"
-[master (root-commit) fda1d85] First commit
- 1 file changed, 61 insertions(+)
-(base) faitusjelinejoseph@MacBook-Pro-2 uploadtogit % git remote add origin git@github.com:faitusjelinej/PCDE-Activity-9.1.git
 (base) faitusjelinejoseph@MacBook-Pro-2 uploadtogit % git push -u origin master
 Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
